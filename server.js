@@ -861,10 +861,10 @@ function renderHomeHtml() {
               <div>
                 <div class="pill">✦ VIP ACTIVE</div>
                 <h1 class="heroTitle">AimTrickHead<br>Secure Panel</h1>
-                <div class="credit">CRE HUY FANTA · PRIVATE EDITION</div>
+                <div class="credit">CRE HUY FANTA · AIMTRICKHEAD UPDATE</div>
               </div>
             </div>
-            <p class="heroNote">Panel tối ưu giao diện theo kiểu app thật hơn, login thoáng hơn, hiệu ứng kích hoạt rõ nét hơn và giữ nguyên hệ key đang chạy.</p>
+            <p class="heroNote">PANEL.</p>
           </div>
           <div class="pill">huy mkt</div>
         </div>
@@ -910,14 +910,14 @@ function renderPanelHtml() {
     <div class="statusTime" id="statusTime">--:--</div>
     <div class="statusMeta">
       <span class="statusDot"></span>
-      <span class="statusLabel">PREMIUM SHELL</span>
+      <span class="statusLabel">PREMIUM AIM TRICK HEAD</span>
       
     </div>
   </div>
 
   <div class="loadingLayer" id="loadingLayer">
     <div class="loadingLogo">${renderLogo(172, 28)}</div>
-    <div class="loadingText">AimTrickHead Signature</div>
+    <div class="loadingText">AimTrickHead </div>
     <div class="loadingSub">Đang Tải Chờ Xíu...</div>
     <div class="loadingBar"><span></span></div>
   </div>
@@ -930,17 +930,17 @@ function renderPanelHtml() {
           <div>
             <h1 class="title">AimTrickHead Signature</h1>
             <div class="sub">Key Active By Huy Fanta</div>
-            <div class="credit">CRE HUY FANTA · PRIVATE EDITION</div>
+            <div class="credit">CRE HUY FANTA · AimTrickHead</div>
           </div>
         </div>
       </div>
 
       <div class="content">
-        <div class="luxBar"><div class="luxLeft"><span class="luxDot"></span><span>PRIVATE SIGNATURE UI</span></div><div class="luxRight">signature luxury shell</div></div>
+        <div class="luxBar"><div class="luxLeft"><span class="luxDot"></span><span>PRIVATE APP</span></div><div class="luxRight">signature luxury shell</div></div>
         <div id="loginView" class="loginHero" style="padding:10px 0 0;background:transparent;border:none;border-radius:0;box-shadow:none">
           <div class="loginFrame">
           <div class="loginIntro">
-            <h2 class="loginTitle">Đăng nhập Key</h2>
+            <h2 class="loginTitle">Đăng nhập Key Đi Mấy Ní</h2>
             <p class="loginHint">
              APP Hỗ Trợ Kéo Tâm Trên ADR - iOS AimTrickHead.
             </p>
@@ -1025,8 +1025,8 @@ function renderPanelHtml() {
               <a class="socialBtn" href="${ZALO_URL}" target="_blank" rel="noopener noreferrer">${iconZalo()} <span>Liên hệ Admin</span></a>
             </div>
             <div class="footer">
-              Kênh tiktok share key trải nghiệm, anh em theo dõi kênh để lấy key sớm nhé.<br>
-              Anh em muốn mua key vĩnh viễn cứ liên hệ admin.
+              Theo Dõi Thông Tin Về APP , Files Aimlock , Kéo Tâm.<br>
+              Key Vĩnh Viễn Liên Hệ.
             </div>
           </div>
 
@@ -1254,11 +1254,11 @@ function renderPanelHtml() {
       clearInterval(fxTimer);
       liveFxBox.classList.remove("activePulse");
       const lines = [
-        [{ text: "[" + makeStamp() + "] runtime.idle => premium-ready", tone: "info" }, { text: "↳ state cache verified", tone: "ok" }, { text: "↳ glass shell synced", tone: "ok" }, { text: "↳ touch response stabilized", tone: "ok" }, { text: "↳ shell depth = 4.0", tone: "info" }],
-        [{ text: "[" + makeStamp() + "] ui.pipeline => stable", tone: "info" }, { text: "↳ visual stream active", tone: "ok" }, { text: "↳ motion profile attached", tone: "ok" }, { text: "↳ fallback guard online", tone: "info" }, { text: "↳ tab anchor pinned", tone: "ok" }],
-        [{ text: "[" + makeStamp() + "] mobile.profile => online", tone: "info" }, { text: "↳ latency route checked", tone: "ok" }, { text: "↳ app-shell lock engaged", tone: "ok" }, { text: "↳ background layer sealed", tone: "ok" }, { text: "↳ overscroll bounce = 0", tone: "ok" }],
-        [{ text: "[" + makeStamp() + "] optimize.stream => armed", tone: "info" }, { text: "↳ tabs warmed up", tone: "ok" }, { text: "↳ module standby ready", tone: "ok" }, { text: "↳ cache drift = 0.00", tone: "info" }, { text: "↳ terminal feed enhanced", tone: "ok" }],
-        [{ text: "[" + makeStamp() + "] premium.tabs => elite", tone: "info" }, { text: "↳ glow engine running", tone: "ok" }, { text: "↳ smooth render maintained", tone: "ok" }, { text: "↳ shell locked", tone: "warn" }, { text: "↳ sticky dock synced", tone: "ok" }]
+        [{ text: "[" + makeStamp() + "] runtime.idle => premium-ready", tone: "info" }, { text: "↳ state cache verified", tone: "ok" }, { text: "↳ running app", tone: "ok" }, { text: "↳Freefire smooth", tone: "ok" }, { text: "↳ shell depth = 4.0", tone: "info" }],
+        [{ text: "[" + makeStamp() + "] ui.pipeline => stable", tone: "info" }, { text: "↳  stream active", tone: "ok" }, { text: "↳ auto update", tone: "ok" }, { text: "↳ com.dts.ffth", tone: "info" }, { text: "↳ OK", tone: "ok" }],
+        [{ text: "[" + makeStamp() + "] mobile.profile => online", tone: "info" }, { text: "↳ update all", tone: "ok" }, { text: "↳ sensivity on", tone: "ok" }, { text: "↳com.dts.ffmax", tone: "ok" }, { text: "↳ overscroll bounce = 0", tone: "ok" }],
+        [{ text: "[" + makeStamp() + "] optimize.stream => armed", tone: "info" }, { text: "↳online", tone: "ok" }, { text: "↳ module  ready", tone: "ok" }, { text: "↳ cache drift = 0.00", tone: "info" }, { text: "↳ freefire lock fps", tone: "ok" }],
+        [{ text: "[" + makeStamp() + "] premium.tabs => elite", tone: "info" }, { text: "↳ on files", tone: "ok" }, { text: "↳ smooth render ", tone: "ok" }, { text: "↳ shell locked", tone: "warn" }, { text: "↳ lock fps", tone: "ok" }]
       ];
       let i = 0;
       writeFx(lines[0]);
@@ -1445,7 +1445,7 @@ function renderPanelHtml() {
       showToast("Đang setup " + pretty, "ok");
       setTimeout(function () {
         gamePrepOverlay.classList.add("hidden");
-        gameDoneSub.textContent = pretty + " đã setup xong. Đang thử mở game cho bạn.";
+        gameDoneSub.textContent = pretty + " đã setup xong. Đang mở game, nếu lỗi thì thoát app vô game nhe.";
         gameDoneOverlay.classList.remove("hidden");
         showToast(pretty + " đã setup xong", "ok");
         setTimeout(function () {
@@ -1518,7 +1518,7 @@ function renderAdminHtml() {
           <div>
             <h1 class="title">Ad</h1>
             <div class="sub">88</div>
-            <div class="credit">CRE HUY FANTA · PRIVATE EDITION</div>
+            <div class="credit">CRE HUY FANTA · AIM TRICK HEAD</div>
           </div>
         </div>
       </div>
